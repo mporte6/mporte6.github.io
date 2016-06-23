@@ -1,0 +1,23 @@
+body{
+  font-family: Sans-Serif;
+  background-color: #black;
+  color: black;
+}
+
+li{
+  font-style: italic;
+}
+
+h3{text-decoration: underline;
+}
+
+a{
+  color: black;
+  font-weight: bold;
+}
+
+body{
+  background: url(http://thethirdrow.com/static/img/products/cat-wallpaper-52cmx10m-411486.jpg)
+}
+
+
